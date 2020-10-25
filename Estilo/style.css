@@ -4,7 +4,19 @@
 } 
 
 body {
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(25, 152, 226);
+}
+
+h2 {
+    font-size: 16pt;
+    color: rgb(36, 34, 133);
+}
+
+h1 {
+    font: bolder;
+    color: rgb(36, 34, 133);
+    font-size: 18pt;
+    text-align: center;
 }
 
 main {
@@ -13,4 +25,8 @@ main {
     margin: auto;     
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+.lado {
+    float: right;
 }
